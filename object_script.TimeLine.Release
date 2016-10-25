@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\News.o
+./release\TimeLine.o
+./release\MainNews.o
+./release\Reply.o
+./release\User.o
+./release\qrc_qml.o
+./release\moc_News.o
+./release\moc_TimeLine.o
+./release\moc_MainNews.o
+./release\moc_Reply.o
+./release\moc_User.o
+);

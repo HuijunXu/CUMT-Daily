@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\News.o
+./debug\TimeLine.o
+./debug\MainNews.o
+./debug\Reply.o
+./debug\User.o
+./debug\qrc_qml.o
+./debug\moc_News.o
+./debug\moc_TimeLine.o
+./debug\moc_MainNews.o
+./debug\moc_Reply.o
+./debug\moc_User.o
+);

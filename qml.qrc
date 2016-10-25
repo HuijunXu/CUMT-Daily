@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>images/user.png</file>
+        <file>NewsList.qml</file>
+        <file>images/img001.jpg</file>
+        <file>NewsList_Main.qml</file>
+        <file>NewsList_Top.qml</file>
+        <file>assets/database.db</file>
+        <file>NewsWindow.qml</file>
+        <file>images/back.png</file>
+        <file>ReplyWindow.qml</file>
+        <file>UserCenter.qml</file>
+        <file>images/read.png</file>
+        <file>images/reply.png</file>
+        <file>images/collect.png</file>
+        <file>UserRead.qml</file>
+        <file>UserCollect.qml</file>
+        <file>UserReply.qml</file>
+        <file>images/uncollect.png</file>
+        <file>images/collectIcon.png</file>
+        <file>images/back_white.png</file>
+        <file>UserLogin.qml</file>
+        <file>images/login_icon.png</file>
+        <file>images/0.jpg</file>
+        <file>images/logoff.png</file>
+        <file>images/user.ico</file>
+        <file>images/handle.png</file>
+    </qresource>
+</RCC>
